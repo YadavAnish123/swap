@@ -1,0 +1,25 @@
+.Container{
+    display: flex;
+    flex-direction:column;
+    background-color: rgb(240, 240, 225);
+     padding-top: 5px;
+     height: 400px;
+     border: 2px solid black;
+}
+h3{
+
+    padding-left:490px ;
+    padding-top: 22px;
+}
+input{
+    padding-left:490px ;
+    padding-top: 22px; 
+}
+button{
+    margin-left:490px ;
+    padding-top: 22px; 
+}
+h4{
+    margin-left:490px ;
+    padding-top: 22px; 
+}

@@ -1,0 +1,24 @@
+*{
+    
+}
+.login{
+    background-color:white;
+    margin-left: 231px;
+    margin-top: 67px;
+}
+#emailHelp{
+    margin-bottom: 28px;
+    margin-left: 142px;
+}
+.btn{
+    background-color: #4364a0;
+    margin-top: 22px;
+    width: 105px;
+    height: 21px;
+    padding-bottom: 26px;
+    border-radius: 20px;
+    color: white;
+}
+.form-label{
+    margin-right: 17px;
+}
